@@ -33,3 +33,4 @@ application.properties
 *.iml
 /out/
 src/main/resources/application.properties.chageme
+src/main/resources/application.properties.chageme
